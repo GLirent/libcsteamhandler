@@ -1,0 +1,3 @@
+[submodule "modules/libctjson"]
+	path = modules/libctjson
+	url = git@github.com:GLirent/libctjson.git
